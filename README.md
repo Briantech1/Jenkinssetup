@@ -54,5 +54,6 @@ Then run each command to run the jenkin repo and install java-11 and as well as 
  You don't have to install packages at the moment just click the x at the top and continue. 
 
  Going forward remember how to access password and your username will be admin. 
- 
+
+ Start Jenkins.
 
